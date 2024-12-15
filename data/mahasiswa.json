@@ -1,0 +1,32 @@
+[
+  {
+    "no": 1,
+    "first_name": "Alia",
+    "last_name": "Maulana Resti",
+    "email": "aliamaulanaresti@mail.ugm.ac.id",
+    "class": "A",
+    "gender": "female",
+    "latitude": -7.7137693,
+    "longitude": 110.3278857
+  },
+  {
+    "no": 2,
+    "first_name": "ALYA",
+    "last_name": "SYAHIDHA",
+    "email": "alyasyahidha@mail.ugm.ac.id",
+    "class": "B",
+    "gender": "female",
+    "latitude": -7.9201881,
+    "longitude": 110.704043
+  },
+  {
+    "no": 3,
+    "first_name": "Amirul",
+    "last_name": "Fahmi",
+    "email": "amirulfahmiash-shiddiqie@mail.ugm.ac.id",
+    "class": "A",
+    "gender": "male",
+    "latitude": -7.7248074,
+    "longitude": 110.6879624
+  }
+]
