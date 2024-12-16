@@ -48,3 +48,7 @@ Poster promosi aplikasi **KosFind**:
 
 ![Promotional Poster](./photos/promotional_poster.png)  
 
+## Credits  
+Icon by [Icongeek26](https://www.flaticon.com/authors/icongeek26) from [Flaticon](https://www.flaticon.com).
+
+
